@@ -13,9 +13,9 @@ Now pursuing an **M.S. in Artificial Intelligence at Northeastern University** (
 
 | | |
 |---|---|
-| **[AI Trading Signal Engine](https://github.com/khanbilal-devop/REPO-SLUG)** | FastAPI service turning financial news into bullish/bearish/hold signals for US stocks. Three vendor APIs behind one provider interface, cross-vendor deduplication, batch FinBERT inference, signed-score aggregation with a neutral dead-band. `FastAPI` `PyTorch` `FinBERT` |
-| **[Linear Regression from Scratch](https://github.com/khanbilal-devop/REPO-SLUG)** | Stock-price prediction on MSE loss derived by hand — feature engineering, multicollinearity diagnostics, model evaluation. `NumPy` `Pandas` |
-| **[Mathematical Foundations for ML](https://github.com/khanbilal-devop/REPO-SLUG)** | Linear algebra, calculus, optimization, probability and statistics implemented from the ground up. `Python` `NumPy` |
+| **[AI Trading Signal Engine](https://github.com/khanbilal-devop/ai-trading-signal-engine)** | FastAPI service turning financial news into bullish/bearish/hold signals for US stocks. Three vendor APIs behind one provider interface, cross-vendor deduplication, batch FinBERT inference, signed-score aggregation with a neutral dead-band. `FastAPI` `PyTorch` `FinBERT` |
+| **[Machine Learning Algorithms](https://github.com/khanbilal-devop/Machine-Learning-Algorithms)** | Stock-price prediction on MSE loss derived by hand — feature engineering, multicollinearity diagnostics, model evaluation. `NumPy` `Pandas` |
+| **[Mathematical Foundations for ML](https://github.com/khanbilal-devop/phase-1-foundations)** | Linear algebra, calculus, optimization, probability and statistics implemented from the ground up. `Python` `NumPy` |
 
 ### Shipped to production
 
